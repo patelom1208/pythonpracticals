@@ -1,4 +1,4 @@
-'''
+
 # Create an initial list
 my_list = [1, 3, 5, 7, 9]
 
@@ -25,6 +25,3 @@ print("Ascending order:", my_list)
 # Sort the list in descending order
 my_list.sort(reverse=True)
 print("Descending order:", my_list)
-'''
-carslist = ["Audi", "BMW", "MERCEDES", "VOLVO"]
-print(carslist[-3:])
